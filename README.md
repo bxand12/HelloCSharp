@@ -1,0 +1,2 @@
+# HelloCSharp
+C# exercise
