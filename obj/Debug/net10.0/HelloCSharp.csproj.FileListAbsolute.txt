@@ -1,0 +1,15 @@
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/bin/Debug/net10.0/HelloCSharp
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/bin/Debug/net10.0/HelloCSharp.deps.json
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/bin/Debug/net10.0/HelloCSharp.runtimeconfig.json
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/bin/Debug/net10.0/HelloCSharp.dll
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/bin/Debug/net10.0/HelloCSharp.pdb
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfoInputs.cache
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfo.cs
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.sourcelink.json
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.dll
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/refint/HelloCSharp.dll
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.pdb
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/HelloCSharp.genruntimeconfig.cache
+/Users/bradleyanderson/Code/HelloCSharp/HelloCSharp/obj/Debug/net10.0/ref/HelloCSharp.dll
